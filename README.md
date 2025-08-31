@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My OpenGL Engine
 
 A custom OpenGL engine built in C++.
