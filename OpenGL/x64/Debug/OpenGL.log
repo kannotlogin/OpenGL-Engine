@@ -1,2 +1,5 @@
 ﻿  Main.cpp
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\kanno\OneDrive\Bureaublad\Projecten\3D-Engines\OpenGL\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(null_monitor.obj)' or at 'C:\Users\kanno\OneDrive\Bureaublad\Projecten\3D-Engines\OpenGL\x64\Debug\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\kanno\OneDrive\Bureaublad\Projecten\3D-Engines\OpenGL\x64\Debug\glfw3.pdb'; linking object as if no debug info
   OpenGL.vcxproj -> C:\Users\kanno\OneDrive\Bureaublad\Projecten\3D-Engines\OpenGL\x64\Debug\OpenGL.exe
